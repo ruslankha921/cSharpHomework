@@ -1,0 +1,15 @@
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\bin\Debug\net6.0\homework_1_1.exe
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\bin\Debug\net6.0\homework_1_1.deps.json
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\bin\Debug\net6.0\homework_1_1.runtimeconfig.json
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\bin\Debug\net6.0\homework_1_1.dll
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\bin\Debug\net6.0\homework_1_1.pdb
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.csproj.AssemblyReference.cache
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.AssemblyInfoInputs.cache
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.AssemblyInfo.cs
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.dll
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\refint\homework_1_1.dll
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.pdb
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\homework_1_1.genruntimeconfig.cache
+C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_1\homework_1_4\obj\Debug\net6.0\ref\homework_1_1.dll
