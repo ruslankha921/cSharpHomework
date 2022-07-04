@@ -15,7 +15,6 @@ else{
 }
 
 
-
 //homework_1_2
 // Console.Clear();
 // Console.Write("Input first number: ");
@@ -45,7 +44,6 @@ else{
 // }
 
 
-
 //homework_1_3
 // Console.Clear();
 // Console.Write("Input number: ");
@@ -53,7 +51,6 @@ else{
 
 // if (number % 2 == 0) Console.Write(number + " -> " + "да");
 // else Console.Write(number + " -> " + "нет");
-
 
 
 //homework_1_4
