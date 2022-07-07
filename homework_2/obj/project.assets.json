@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ntemw0221\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\YandexDisk\\Компьютер NTEMW0221\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj",
+      "projectUniqueName": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj",
       "projectName": "homework_2",
-      "projectPath": "C:\\YandexDisk\\Компьютер NTEMW0221\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\YandexDisk\\Компьютер NTEMW0221\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\obj\\",
+      "projectPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj",
+      "packagesPath": "C:\\Users\\ntemw0221\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\ntemw0221\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

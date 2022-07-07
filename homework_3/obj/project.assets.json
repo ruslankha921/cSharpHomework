@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\homework_1.csproj",
-      "projectName": "homework_1",
-      "projectPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\homework_1.csproj",
+      "projectUniqueName": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_3\\homework_3.csproj",
+      "projectName": "homework_3",
+      "projectPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_3\\homework_3.csproj",
       "packagesPath": "C:\\Users\\ntemw0221\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\obj\\",
+      "outputPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ntemw0221\\AppData\\Roaming\\NuGet\\NuGet.Config"

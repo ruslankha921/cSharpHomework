@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj": {}
+    "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\homework_1.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj": {
+    "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\homework_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj",
-        "projectName": "homework_2",
-        "projectPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\homework_2.csproj",
+        "projectUniqueName": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\homework_1.csproj",
+        "projectName": "homework_1",
+        "projectPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\homework_1.csproj",
         "packagesPath": "C:\\Users\\ntemw0221\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_2\\obj\\",
+        "outputPath": "D:\\OneDrive - sakura\\Рабочий стол\\Learning\\GB\\CSharp\\homeworks\\homework_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ntemw0221\\AppData\\Roaming\\NuGet\\NuGet.Config"

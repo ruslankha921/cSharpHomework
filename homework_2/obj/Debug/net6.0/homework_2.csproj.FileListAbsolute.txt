@@ -1,15 +1,15 @@
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.exe
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.deps.json
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.runtimeconfig.json
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.dll
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.pdb
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.csproj.AssemblyReference.cache
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.GeneratedMSBuildEditorConfig.editorconfig
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.AssemblyInfoInputs.cache
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.AssemblyInfo.cs
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.csproj.CoreCompileInputs.cache
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.dll
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\refint\homework_2.dll
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.pdb
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.genruntimeconfig.cache
-C:\YandexDisk\Компьютер NTEMW0221\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\ref\homework_2.dll
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.exe
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.deps.json
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.runtimeconfig.json
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.dll
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\bin\Debug\net6.0\homework_2.pdb
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.csproj.AssemblyReference.cache
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.AssemblyInfoInputs.cache
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.AssemblyInfo.cs
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.csproj.CoreCompileInputs.cache
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.dll
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\refint\homework_2.dll
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.pdb
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\homework_2.genruntimeconfig.cache
+D:\OneDrive - sakura\Рабочий стол\Learning\GB\CSharp\homeworks\homework_2\obj\Debug\net6.0\ref\homework_2.dll
